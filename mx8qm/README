@@ -1,0 +1,10 @@
+Extracted from imx-scfw-porting-kit-1.2.7.1 downloaded (login required) from
+
+https://www.nxp.com/webapp/Download?colCode=L4.19.35_1.1.0_SCFWKIT-1.2.7.1&appType=license
+
+Download cross compiler from
+https://developer.arm.com/tools-and-software/open-source-software/developer-tools/gnu-toolchain/gnu-rm/downloads/6-2017-q2-update
+
+
+create a subfolder named tools and extract it in the subfolder, in order to have the scripts working directly, or choose a different folder and correct the scripts.
+

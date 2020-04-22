@@ -1,0 +1,5 @@
+export TOOLS=$PWD/tools
+make clean
+rm -rf platform/board/mx8qm_c26/dcd/*.h
+make qm R=B0 D=1 M=1 DL=5 U=2 B=c26 DDR_CON=imx8qm_dcd_1.6GHz_c26_chipb0_2gb
+
